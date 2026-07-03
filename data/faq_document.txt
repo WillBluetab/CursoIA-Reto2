@@ -1,0 +1,145 @@
+================================================================================
+TALENTOHUB: MANUAL DE POLÍTICAS INTERNAS, PROCEDIMIENTOS Y PREGUNTAS FRECUENTES (FAQ)
+================================================================================
+
+Este documento contiene la recopilación oficial de políticas, directrices operativas y preguntas frecuentes (FAQ) para todos los empleados y colaboradores del software HR SaaS TalentoHub. Es responsabilidad de cada miembro del equipo familiarizarse con estos procedimientos para asegurar un entorno de trabajo armonioso y eficiente.
+
+--------------------------------------------------------------------------------
+SECCIÓN 1: POLÍTICA DE VACACIONES, DÍAS LIBRES Y AUSENCIAS LABORALES
+--------------------------------------------------------------------------------
+
+1.1. Derecho anual y devengo de vacaciones
+Todos los empleados contratados a tiempo completo en TalentoHub tienen derecho a un total de 30 días naturales de vacaciones remuneradas por cada año completo de servicio activo (o la parte proporcional si el año de ingreso es menor). El periodo de devengo se calcula del 1 de enero al 31 de diciembre. Las vacaciones no pueden ser compensadas económicamente durante la vigencia de la relación laboral, de acuerdo con la legislación laboral aplicable.
+
+1.2. Procedimiento para la solicitud y aprobación de vacaciones
+Para garantizar la continuidad del negocio y el correcto funcionamiento de cada departamento, las solicitudes de vacaciones deben gestionarse de la siguiente manera:
+- Las solicitudes deben enviarse a través del portal de HR en la sección "Mi Tiempo > Solicitar Ausencia" con al menos 15 días hábiles de antelación para periodos superiores a 5 días laborables.
+- Para solicitudes más cortas (de 1 a 4 días laborables), se requiere una antelación mínima de 5 días hábiles.
+- Todas las ausencias deben recibir la aprobación digital previa del mánager directo en la plataforma antes de que el empleado pueda disfrutar de los días solicitados.
+- Se recomienda encarecidamente coordinar las fechas con los compañeros del mismo equipo antes de realizar la solicitud formal, con el fin de evitar que coincidan ausencias críticas en el mismo periodo.
+
+1.3. Traspaso de vacaciones pendientes al año siguiente
+¿Qué ocurre si finaliza el año y no he disfrutado de todas mis vacaciones? Nuestra política de balance vida-trabajo incentiva a tomar todo el tiempo libre disponible en el año corriente. Sin embargo, excepcionalmente, se permite el traspaso de un máximo de 5 días hábiles de vacaciones no disfrutadas al año siguiente. Estos días acumulados deben disfrutarse obligatoriamente antes del 31 de marzo de ese nuevo año. De lo contrario, dichos días acumulados caducarán automáticamente y se perderán de manera definitiva, sin derecho a compensación o abono financiero.
+
+1.4. Procedimiento en caso de baja por enfermedad (incapacidad temporal)
+Si un empleado no puede asistir al trabajo debido a una enfermedad o accidente, debe seguir de manera estricta el siguiente protocolo de comunicación:
+- Notificar la ausencia al mánager directo y al correo del equipo de soporte de HR (hr-support@talentohub.com) antes de las 9:30 AM del primer día de ausencia laboral.
+- Si la incapacidad temporal se extiende por más de 2 días, el empleado debe presentar el correspondiente parte médico oficial de baja emitido por el sistema público de salud. Este documento debe ser subido en formato PDF en el módulo "Mi Tiempo > Justificantes" dentro de las 72 horas siguientes al inicio de la baja.
+- El empleado debe mantener informado a su supervisor sobre la evolución de su estado y la fecha estimada de reincorporación. Al regresar al trabajo, deberá subir el parte médico de alta correspondiente en la misma sección del portal de HR.
+
+--------------------------------------------------------------------------------
+SECCIÓN 2: EVALUACIONES DE DESEMPEÑO, RETROALIMENTACIÓN Y DESARROLLO
+--------------------------------------------------------------------------------
+
+2.1. Frecuencia y estructura del ciclo de evaluación
+En TalentoHub creemos que el feedback continuo es el pilar de nuestro crecimiento profesional. Por ello, el ciclo formal de evaluación de desempeño de la empresa se lleva a cabo dos veces al año:
+- Evaluación de Medio Año: Se realiza durante el mes de junio y sirve como punto de control para revisar el cumplimiento de objetivos del primer semestre.
+- Evaluación Anual: Se realiza en el mes de diciembre, donde se evalúa el rendimiento global de todo el año y se deciden las promociones, ajustes salariales y bonificaciones.
+
+2.2. Metodología de feedback 360 grados
+Nuestras evaluaciones utilizan una metodología de retroalimentación 360 grados para ofrecer una perspectiva completa y objetiva del rendimiento. Este proceso comprende los siguientes pasos consecutivos:
+1. Autoevaluación del empleado: El colaborador evalúa su propio rendimiento basándose en sus metas iniciales.
+2. Feedback de compañeros (pares): El empleado propone a 3 compañeros de trabajo (pares) con los que haya colaborado estrechamente. El mánager aprobará al menos a 2 de ellos para que proporcionen comentarios confidenciales.
+3. Evaluación del mánager: El supervisor directo revisa la autoevaluación, el feedback de los pares y realiza su propia calificación de competencias y cumplimiento de objetivos.
+4. Sesión de calibración y feedback: Mánager y empleado se reúnen en una sesión cara a cara de 60 minutos para discutir el desempeño y acordar los próximos pasos.
+
+2.3. Plan de Desarrollo Individual (PDI)
+Al finalizar la evaluación de desempeño anual, cada empleado diseña de manera conjunta con su supervisor directo su Plan de Desarrollo Individual (PDI). El PDI debe incluir:
+- Al menos dos objetivos claros de desarrollo técnico o de habilidades blandas para el nuevo año.
+- Detalle de cursos de formación, libros o certificaciones específicas que el empleado desea cursar.
+- Un presupuesto asignado de hasta 1500 € anuales subvencionado por la empresa para financiar la formación contemplada en el plan, el cual requiere aprobación previa de HR.
+
+--------------------------------------------------------------------------------
+SECCIÓN 3: REGISTRO DE JORNADA, HORARIOS Y HORAS EXTRAORDINARIAS
+--------------------------------------------------------------------------------
+
+3.1. Obligatoriedad del registro horario diario
+Por cumplimiento normativo y para velar por el respeto de los horarios de descanso, todos los colaboradores de TalentoHub deben registrar diariamente su jornada laboral. Esto se realiza accediendo a la sección "Fichar" (o Check-in) en la aplicación móvil de TalentoHub o a través del portal web de escritorio. Los registros obligatorios que deben marcarse cada día de forma manual son:
+- La hora exacta de inicio de la jornada por la mañana.
+- El inicio y fin de la pausa obligatoria para la comida (que debe tener una duración mínima de 30 minutos).
+- La hora de salida al finalizar la jornada de trabajo.
+El olvido recurrente del registro horario puede ser objeto de apercibimiento por parte del departamento de HR.
+
+3.2. Autorización y compensación de horas extraordinarias
+En TalentoHub promovemos el trabajo dentro del horario regular y buscamos evitar la sobrecarga laboral. No obstante, si por razones excepcionales del negocio se requiere realizar horas extraordinarias, se aplicará el siguiente procedimiento:
+- Las horas extra deben estar previamente justificadas y autorizadas por escrito por el director del departamento antes de su realización. No se reconocerán horas extra que no cuenten con esta autorización formal por escrito.
+- Las horas extra realizadas deberán registrarse en la pestaña "Mis Horas Extra" en el portal web, adjuntando la aprobación por escrito del director en formato digital.
+- Las horas extraordinarias se compensan con tiempo de descanso equivalente y no mediante compensación económica directa. El ratio de compensación es de 1.5 horas libres por cada hora extra efectivamente realizada.
+- Dicho tiempo de descanso compensatorio debe disfrutarse dentro de los 30 días naturales siguientes a su realización, previo acuerdo con el mánager para no afectar las entregas del equipo.
+
+--------------------------------------------------------------------------------
+SECCIÓN 4: BENEFICIOS CORPORATIVOS Y BIENESTAR DE LOS EMPLEADOS
+--------------------------------------------------------------------------------
+
+4.1. Seguro de salud privado y dental
+TalentoHub proporciona un seguro médico privado premium financiado al 100% por la empresa para todos los empleados indefinidos. Este beneficio entra en vigor a partir del primer día del mes siguiente a la firma del contrato. Las características principales de este seguro son:
+- Cobertura médica completa en centros de prestigio nacional y libre elección de médicos dentro del cuadro médico de la aseguradora.
+- Cobertura dental básica que cubre limpiezas anuales, consultas y radiografías sin coste adicional.
+- Los empleados tienen la opción de incorporar a sus familiares directos (cónyuge e hijos) en la póliza, asumiendo el coste mensual correspondiente a través de una tarifa colectiva ventajosa descontada directamente de su nómina.
+
+4.2. Cheques restaurante (Tarjeta de comida virtual)
+Para facilitar el almuerzo diario, la empresa ofrece un subsidio de alimentación mensual fijo de 180 € netos, distribuidos a través de una tarjeta de comida virtual provista por nuestro proveedor asociado. Este beneficio está disponible para todos los empleados de plantilla y se rige por las siguientes reglas:
+- El importe de 180 € se recarga el primer día laborable de cada mes.
+- El saldo no consumido al final del mes no es acumulable para el periodo siguiente, por lo que el saldo de la tarjeta vuelve a 180 € netos con cada recarga mensual.
+- La tarjeta virtual es personal e intransferible y solo puede utilizarse en establecimientos de hostelería y restauración.
+
+4.3. Membresía de gimnasio subvencionada (GymPass)
+Comprometidos con la salud física de nuestro equipo, subvencionamos el 50% del coste de la suscripción mensual en la red GymPass para todos los empleados activos. A través de este servicio, los colaboradores pueden acceder a miles de gimnasios asociados, clases de fitness en directo y sesiones de entrenamiento personalizado. Para darte de alta, debes registrarte en la plataforma de GymPass utilizando tu dirección de correo electrónico corporativo de TalentoHub y seleccionar la tarifa de tu preferencia.
+
+--------------------------------------------------------------------------------
+SECCIÓN 5: POLÍTICA DE VIAJES Y REEMBOLSO DE GASTOS DE NEGOCIO
+--------------------------------------------------------------------------------
+
+5.1. Requisitos para el reporte de gastos y validez de justificantes
+Todos los gastos legítimos que un empleado realice por cuenta de la empresa durante el desarrollo de sus funciones (como viajes de negocio, formación o comidas comerciales) serán reembolsados siguiendo estas directrices:
+- Los reportes de gastos deben crearse en el módulo "Mis Gastos" de TalentoHub.
+- Es obligatorio adjuntar una factura digital legible o una foto clara de la factura original que contenga el desglose de conceptos e impuestos.
+- No se aceptarán como justificantes válidos los tickets de compra simples que carezcan de desglose de impuestos, ni capturas de extractos bancarios de tarjetas de crédito.
+- La fecha límite para enviar los reportes mensuales de gastos es el día 5 de cada mes. Las solicitudes enviadas después de esta fecha serán procesadas y abonadas en la nómina del mes siguiente.
+
+5.2. Límites diarios autorizados por conceptos
+Para asegurar un uso responsable de los recursos de la empresa, se establecen los siguientes límites diarios máximos:
+- Alojamiento en hotel: Hasta 120 € por noche en capitales principales (Madrid, Barcelona, París, etc.) y un máximo de 90 € por noche en el resto de destinos.
+- Dietas individuales en viajes de negocios: Un límite máximo de 45 € al día para desayuno, comida y cena.
+- Kilometraje con vehículo propio: Si es estrictamente necesario utilizar el vehículo particular del empleado para desplazamientos de trabajo autorizados, se reembolsará una tarifa fija de 0.21 € por kilómetro recorrido. Al reporte se le debe adjuntar obligatoriamente una captura de la ruta realizada calculada mediante Google Maps.
+
+--------------------------------------------------------------------------------
+SECCIÓN 6: POLÍTICA DE TELETRABAJO Y EQUIPAMIENTO DE OFICINA
+--------------------------------------------------------------------------------
+
+6.1. Esquema de trabajo híbrido flexible
+TalentoHub ofrece un modelo de trabajo híbrido diseñado para combinar los beneficios de la colaboración presencial con la flexibilidad de trabajar desde el hogar:
+- El esquema estándar autoriza un máximo de 3 días de teletrabajo a la semana y requiere 2 días de presencia física obligatoria en la oficina.
+- Los días de asistencia obligatoria presencial en la oficina son todos los martes y jueves, con el fin de realizar sesiones de alineación, reuniones de planificación y actividades de integración de equipos.
+- Los 3 días de trabajo en remoto restantes pueden elegirse de manera flexible por el empleado, previa coordinación y aprobación verbal de su respectivo mánager.
+
+6.2. Equipamiento tecnológico provisto por la empresa
+Para habilitar el trabajo desde el hogar en condiciones seguras y cómodas, la empresa provee los siguientes equipos de propiedad corporativa:
+- Un ordenador portátil corporativo de gama alta equipado con el software de seguridad requerido.
+- Un monitor externo de 24 pulgadas, teclado inalámbrico estándar y ratón óptico ergonómico.
+- Una ayuda económica de pago único de hasta 150 € para la adquisición de una silla de oficina ergonómica o un escritorio para su espacio de trabajo en el hogar. Para recibir este reembolso, se debe cargar la factura de compra correspondiente en la sección "Reembolso Equipamiento" del portal.
+
+6.3. Reporte de averías informáticas e incidencias técnicas
+Si se presenta algún fallo en el funcionamiento del ordenador corporativo o en los accesorios provistos, el empleado debe:
+- Enviar un correo electrónico detallado a it-support@talentohub.com explicando la incidencia técnica y adjuntando capturas de pantalla del error si es posible.
+- El departamento de soporte técnico de IT abrirá un ticket de servicio y se pondrá en contacto en un plazo máximo de 4 horas hábiles.
+- En caso de fallos de hardware insubsanables de forma remota, la empresa enviará un servicio de mensajería al domicilio del empleado para recoger el equipo averiado y entregarle un equipo de sustitución temporal en un plazo de 24 a 48 horas.
+
+--------------------------------------------------------------------------------
+SECCIÓN 7: PROCESO DE NÓMINAS, PAGOS E INCIDENCIAS SALARIALES
+--------------------------------------------------------------------------------
+
+7.1. Calendario de cierre y pago de nóminas
+El abono mensual de los salarios de la plantilla de TalentoHub se realiza mediante transferencia bancaria regular siguiendo los siguientes hitos de calendario:
+- El ciclo de novedades de nómina (altas, bajas, variables de ventas, gastos aprobados y deducciones) se cierra formalmente el día 25 de cada mes.
+- El pago de la nómina se ordena el día 28 de cada mes.
+- Si el día 28 cae en fin de semana (sábado o domingo) o coincide con un día festivo nacional, la orden de pago se adelantará de manera automática al día hábil inmediatamente anterior.
+
+7.2. Acceso y descarga de los recibos de nómina
+Los recibos de nómina digitales mensuales correspondientes estarán disponibles para su consulta, visualización y descarga en formato PDF a partir del día 30 de cada mes. Para acceder a ellos, los empleados deben entrar en el portal interno de TalentoHub e ir a la sección "Mi Nómina > Historial de Documentos". La empresa no realiza envíos de nóminas físicas en papel o a través de correo electrónico por cuestiones de seguridad de la información.
+
+7.3. Reporte y resolución de discrepancias en la nómina
+Si un empleado detecta un error o desacuerdo en los importes de su nómina recibida (por ejemplo, discrepancias en el cálculo de impuestos, retención de IRPF errónea, complementos salariales omitidos o días de baja mal descontados):
+- Debe abrir un caso de consulta a través del formulario digital en "Portal de HR > Soporte Nóminas".
+- Debe indicar de forma detallada el concepto en desacuerdo y aportar los documentos de soporte necesarios.
+- El equipo de Administración de Personal responderá en un plazo máximo de 3 días laborables. Si la discrepancia se confirma y supera el 10% del salario neto mensual del empleado, se procesará un pago extraordinario de subsanación inmediata en un plazo de 48 horas. Si el importe es inferior a dicho límite, la corrección se aplicará como un ajuste en la nómina del mes siguiente de manera regular.
