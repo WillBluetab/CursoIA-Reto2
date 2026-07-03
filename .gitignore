@@ -1,0 +1,16 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+ENV/
+
+# Claves y configuraciones privadas
+.env
+
+# Archivos temporales de Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Base de datos vectorial local (si aplica)
+chroma_db/
