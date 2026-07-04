@@ -22,7 +22,7 @@ El siguiente diagrama ilustra el flujo de datos y la ejecución de funciones del
 
 ```mermaid
 graph TD
-    subgraph Ingesta [1. Pipeline de Ingesta (build_index.py)]
+    subgraph Ingesta ["1. Pipeline de Ingesta (build_index.py)"]
         A[faq_document.txt] --> B(load_document)
         B --> C(split_into_chunks)
         C -->|Raw Chunks| D(validate_chunks_tokens)
@@ -33,7 +33,7 @@ graph TD
         G --> H
     end
 
-    subgraph Consulta [2. Pipeline de Consulta RAG (query.py)]
+    subgraph Consulta ["2. Pipeline de Consulta RAG (query.py)"]
         I[Pregunta del Usuario] --> J(embed_query)
         H -->|Carga e instanciación de IndexEntry| K[lista de IndexEntry]
         J -->|Vector de Consulta| L(calculate_cosine_similarity)
