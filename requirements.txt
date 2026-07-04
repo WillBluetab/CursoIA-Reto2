@@ -1,0 +1,13 @@
+langchain==0.1.11
+langchain-community==0.0.25
+langchain-openai==0.0.8
+langchain-text-splitters==0.0.1
+langchain-chroma==0.1.0
+openai==1.13.3
+numpy>=1.24.0
+tiktoken>=0.6.0
+pydantic>=2.6.0
+python-dotenv==1.0.1
+sentence-transformers>=2.5.0
+torch>=2.0.0
+pypdf==4.1.0
