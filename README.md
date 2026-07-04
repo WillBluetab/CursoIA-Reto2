@@ -16,6 +16,39 @@ El sistema procesa documentación no estructurada (FAQs), la segmenta en chunks,
 
 ---
 
+## Arquitectura del Sistema
+
+El siguiente diagrama ilustra el flujo de datos y la ejecución de funciones del sistema RAG:
+
+```mermaid
+graph TD
+    subgraph Ingesta [1. Pipeline de Ingesta (build_index.py)]
+        A[faq_document.txt] --> B(load_document)
+        B --> C(split_into_chunks)
+        C -->|Raw Chunks| D(validate_chunks_tokens)
+        D -->|Fusión de Chunks < 50 tokens| E{¿Proveedor?}
+        E -->|openai| F(generate_embeddings_openai)
+        E -->|local| G(generate_embeddings_local)
+        F --> H[data/faq_index.json]
+        G --> H
+    end
+
+    subgraph Consulta [2. Pipeline de Consulta RAG (query.py)]
+        I[Pregunta del Usuario] --> J(embed_query)
+        H -->|Carga e instanciación de IndexEntry| K[lista de IndexEntry]
+        J -->|Vector de Consulta| L(calculate_cosine_similarity)
+        K -->|Vectores de Chunks| L
+        L --> M(Búsqueda k-NN)
+        M -->|Top k Chunks en texto plano| N(Construcción del Prompt)
+        N --> O(get_llm)
+        O -->|Respuesta Final| P[QueryResponse]
+        P --> Q(evaluate_rag_response)
+        Q -->|Feedback y Nota 0-10| R[EvaluationResult]
+    end
+```
+
+---
+
 ## Requisitos de Instalación
 
 Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
